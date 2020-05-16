@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-#infinite loop printing Holberton
 
 i=0
 while :
