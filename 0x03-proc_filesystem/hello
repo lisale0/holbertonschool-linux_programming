@@ -4,7 +4,7 @@
 i=0
 while :
 do
-    echo "[$i] Holberton"
+    echo "[$i] hello"
     ((i++))
     sleep 1
 done
